@@ -1,0 +1,6 @@
+{
+  "name": "Bonjour Web",
+  "description": "Un site internet simple affichant le message 'Bonjour Imane Farida'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
